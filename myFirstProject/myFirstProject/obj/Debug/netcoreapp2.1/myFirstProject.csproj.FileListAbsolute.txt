@@ -1,0 +1,11 @@
+/Users/ode7340/Projects/myFirstProject/myFirstProject/bin/Debug/netcoreapp2.1/myFirstProject.deps.json
+/Users/ode7340/Projects/myFirstProject/myFirstProject/bin/Debug/netcoreapp2.1/myFirstProject.runtimeconfig.json
+/Users/ode7340/Projects/myFirstProject/myFirstProject/bin/Debug/netcoreapp2.1/myFirstProject.runtimeconfig.dev.json
+/Users/ode7340/Projects/myFirstProject/myFirstProject/bin/Debug/netcoreapp2.1/myFirstProject.dll
+/Users/ode7340/Projects/myFirstProject/myFirstProject/bin/Debug/netcoreapp2.1/myFirstProject.pdb
+/Users/ode7340/Projects/myFirstProject/myFirstProject/obj/Debug/netcoreapp2.1/myFirstProject.csprojAssemblyReference.cache
+/Users/ode7340/Projects/myFirstProject/myFirstProject/obj/Debug/netcoreapp2.1/myFirstProject.csproj.CoreCompileInputs.cache
+/Users/ode7340/Projects/myFirstProject/myFirstProject/obj/Debug/netcoreapp2.1/myFirstProject.AssemblyInfoInputs.cache
+/Users/ode7340/Projects/myFirstProject/myFirstProject/obj/Debug/netcoreapp2.1/myFirstProject.AssemblyInfo.cs
+/Users/ode7340/Projects/myFirstProject/myFirstProject/obj/Debug/netcoreapp2.1/myFirstProject.dll
+/Users/ode7340/Projects/myFirstProject/myFirstProject/obj/Debug/netcoreapp2.1/myFirstProject.pdb

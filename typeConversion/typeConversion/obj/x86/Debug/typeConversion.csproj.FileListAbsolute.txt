@@ -1,0 +1,6 @@
+/Users/ode7340/Projects/typeConversion/typeConversion/bin/Debug/typeConversion.exe
+/Users/ode7340/Projects/typeConversion/typeConversion/bin/Debug/typeConversion.pdb
+/Users/ode7340/Projects/typeConversion/typeConversion/obj/x86/Debug/typeConversion.csprojAssemblyReference.cache
+/Users/ode7340/Projects/typeConversion/typeConversion/obj/x86/Debug/typeConversion.csproj.CoreCompileInputs.cache
+/Users/ode7340/Projects/typeConversion/typeConversion/obj/x86/Debug/typeConversion.exe
+/Users/ode7340/Projects/typeConversion/typeConversion/obj/x86/Debug/typeConversion.pdb

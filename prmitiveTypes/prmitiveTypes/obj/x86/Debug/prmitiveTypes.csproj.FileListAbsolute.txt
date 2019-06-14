@@ -1,0 +1,6 @@
+/Users/ode7340/Projects/prmitiveTypes/prmitiveTypes/bin/Debug/prmitiveTypes.exe
+/Users/ode7340/Projects/prmitiveTypes/prmitiveTypes/bin/Debug/prmitiveTypes.pdb
+/Users/ode7340/Projects/prmitiveTypes/prmitiveTypes/obj/x86/Debug/prmitiveTypes.csprojAssemblyReference.cache
+/Users/ode7340/Projects/prmitiveTypes/prmitiveTypes/obj/x86/Debug/prmitiveTypes.csproj.CoreCompileInputs.cache
+/Users/ode7340/Projects/prmitiveTypes/prmitiveTypes/obj/x86/Debug/prmitiveTypes.exe
+/Users/ode7340/Projects/prmitiveTypes/prmitiveTypes/obj/x86/Debug/prmitiveTypes.pdb

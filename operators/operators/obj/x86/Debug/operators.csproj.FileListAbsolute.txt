@@ -1,0 +1,6 @@
+/Users/ode7340/Projects/operators/operators/obj/x86/Debug/operators.csprojAssemblyReference.cache
+/Users/ode7340/Projects/operators/operators/obj/x86/Debug/operators.csproj.CoreCompileInputs.cache
+/Users/ode7340/Projects/operators/operators/bin/Debug/operators.exe
+/Users/ode7340/Projects/operators/operators/bin/Debug/operators.pdb
+/Users/ode7340/Projects/operators/operators/obj/x86/Debug/operators.exe
+/Users/ode7340/Projects/operators/operators/obj/x86/Debug/operators.pdb
